@@ -97,7 +97,7 @@ The actual file's states in the file system, they can be tracked or untracked, t
 The area where we prepared a set of files for a new version based its changes.
 ```
 
-<h3>HEAD</h3> 
+<h3>HEAD</h3>  
 
 ```md
 It's the pointer in the current branch, it has the complete repository history.
@@ -108,7 +108,3 @@ It's the pointer in the current branch, it has the complete repository history.
 ```md
 In simple words its' just a space provided to share and collaborate your code with the community and frineds . 
 ```
-
-
-**This file was modified from github**
-

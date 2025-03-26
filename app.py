@@ -27,4 +27,15 @@ for itervar in [3, 41, 12, 9, 74, 15]:
     if largest is None or itervar > largest:
         largest = itervar
 print('largest:', largest)
+#   intervar is a variable that takes the value of each element in the list in each iteration of the loop.
+#   In the first iteration, intervar is 3, in the second iteration, intervar is 41, and so on.
+#   The loop continues until all elements in the list have been exhausted.
+#   The variable largest is used to keep track of the largest number found so far.
+#   In each iteration, the current value of intervar is compared with the value of largest.
+#   If intervar is greater than largest, then largest is updated to the value of intervar.
+#   The loop continues until all elements in the list have been exhausted.
+#   The value of largest is printed out after the loop has finished executing.
+
+#  IN THE PROGRAM__ THE CONDITION IS intervar < smallest.
+
 		

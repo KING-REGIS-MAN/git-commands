@@ -41,14 +41,9 @@ newstudents.update({'Department': 'SQL'})  # Append a dictionary
 print(newstudents)
 
 
-Data = {34, 10, 39, 38, 20}
-Data.sort()
-Data.reverse()
-print(Data)
-
+data = [34,10,39,38,20]; data.sort(); data.reverse(); print(data)  #--SORTS THE DATA IN ASCENDING ORDER AND REVERSE IT
 
 #import os
-
 #for root, dirs, files in os.walk("C:/Users"):
     #print("Current Directory:", root)
     #print("Subdirectories:", dirs)
