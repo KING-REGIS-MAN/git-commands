@@ -23,12 +23,14 @@ To initialize a Repo for an new project,
 ```sh
 git clone <repo--url>
 ```
+
 ### Checking the status of our file
 To check the status of your files, you use command `git status`, this  will show you 
 if your files are untracked, staged and ready for committing
 ```sh
 git status
 ```
+
 ### Basic Snapshotting
 
 | Command | Description |
